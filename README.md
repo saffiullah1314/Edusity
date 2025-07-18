@@ -5,8 +5,6 @@
 ## 🔗 Live Demo
 
 🌐 [Visit Edusity Website](https://saffiullah1314.github.io/Edusity/)  
-_(Replace the link with your actual GitHub Pages deployment link)_
-
 ---
 
 ## 📌 Key Features
