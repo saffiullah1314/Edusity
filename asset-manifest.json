@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/edusity/static/css/main.ca7050fc.css",
-    "main.js": "/edusity/static/js/main.ac93ccca.js",
-    "static/media/bg-img.jpg": "/edusity/static/media/bg-img.1601f30e6d027aa09d03.jpg",
-    "static/media/about.png": "/edusity/static/media/about.ae79f7c4ba002987bed7.png",
-    "static/media/program3.png": "/edusity/static/media/program3.73a816ab56c0a6e457d6.png",
-    "static/media/program2.png": "/edusity/static/media/program2.72b615ee1f3e9b493416.png",
-    "static/media/gallery-3.png": "/edusity/static/media/gallery-3.cc599987b9e13cee8fcc.png",
-    "static/media/program1.png": "/edusity/static/media/program1.2d4f350efbdf6fc200a8.png",
-    "static/media/gallery-1.png": "/edusity/static/media/gallery-1.901e63cc3af8b9273073.png",
-    "static/media/gallery-2.png": "/edusity/static/media/gallery-2.cb423b37437ac0ff6f31.png",
-    "static/media/user-2.png": "/edusity/static/media/user-2.b22c59baa927c1be0d2e.png",
-    "static/media/user-3.png": "/edusity/static/media/user-3.12915e16ed909bbd9b48.png",
-    "static/media/user-4.png": "/edusity/static/media/user-4.50ce69a0306667eba2c1.png",
-    "static/media/user-1.png": "/edusity/static/media/user-1.1f46bb883fe387830efd.png",
-    "index.html": "/edusity/index.html",
-    "main.ca7050fc.css.map": "/edusity/static/css/main.ca7050fc.css.map",
-    "main.ac93ccca.js.map": "/edusity/static/js/main.ac93ccca.js.map"
+    "main.css": "/Edusity/static/css/main.84d539b6.css",
+    "main.js": "/Edusity/static/js/main.64e2b802.js",
+    "static/media/bg-img.jpg": "/Edusity/static/media/bg-img.1601f30e6d027aa09d03.jpg",
+    "static/media/about.png": "/Edusity/static/media/about.ae79f7c4ba002987bed7.png",
+    "static/media/program3.png": "/Edusity/static/media/program3.73a816ab56c0a6e457d6.png",
+    "static/media/program2.png": "/Edusity/static/media/program2.72b615ee1f3e9b493416.png",
+    "static/media/gallery-3.png": "/Edusity/static/media/gallery-3.cc599987b9e13cee8fcc.png",
+    "static/media/program1.png": "/Edusity/static/media/program1.2d4f350efbdf6fc200a8.png",
+    "static/media/gallery-1.png": "/Edusity/static/media/gallery-1.901e63cc3af8b9273073.png",
+    "static/media/gallery-2.png": "/Edusity/static/media/gallery-2.cb423b37437ac0ff6f31.png",
+    "static/media/user-2.png": "/Edusity/static/media/user-2.b22c59baa927c1be0d2e.png",
+    "static/media/user-3.png": "/Edusity/static/media/user-3.12915e16ed909bbd9b48.png",
+    "static/media/user-4.png": "/Edusity/static/media/user-4.50ce69a0306667eba2c1.png",
+    "static/media/user-1.png": "/Edusity/static/media/user-1.1f46bb883fe387830efd.png",
+    "index.html": "/Edusity/index.html",
+    "main.84d539b6.css.map": "/Edusity/static/css/main.84d539b6.css.map",
+    "main.64e2b802.js.map": "/Edusity/static/js/main.64e2b802.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca7050fc.css",
-    "static/js/main.ac93ccca.js"
+    "static/css/main.84d539b6.css",
+    "static/js/main.64e2b802.js"
   ]
 }
