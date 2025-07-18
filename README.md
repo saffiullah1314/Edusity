@@ -34,7 +34,7 @@ Whether you aspire to become a **teacher**, **administrator**, **counselor**, or
 ## 🛠️ Tech Stack
 
 - **Frontend:** React.js
-- **Styling:** CSS / Tailwind CSS *(mention whichever one you used)*
+- **Styling:** CSS / Tailwind CSS
 - **Deployment:** GitHub Pages
 
 ---
