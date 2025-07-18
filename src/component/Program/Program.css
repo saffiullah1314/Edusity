@@ -1,0 +1,71 @@
+.programs{
+    margin: 80px auto;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.program{
+    height: 45vmin;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-basis: 30%;
+    border-radius: 15px;
+    color: white;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    transition: 0.4s;
+    background-blend-mode: multiply;
+}
+.program img {
+    width: 65px;
+    margin-bottom: 15px;
+}
+.program p{
+    font-size: 20px;
+}
+.program .caption{
+    text-align: center;
+    opacity: 0;
+    transform: scale(0);
+    transition: 0.4s;
+}
+.program:hover .caption{
+    opacity: 1;
+    transform: scale(1);
+    cursor: pointer;
+} 
+  .program:hover {
+    background-color: rgba(0, 0, 0, 0.6); 
+    cursor: pointer;
+  }
+  
+
+  @media (max-width: 1000px){
+    .program{
+        flex-basis: 30%;
+    }
+    .programs{
+        width: 100%;
+    }
+    .program img{
+        width: 50px;
+    }
+  }
+  @media (max-width: 650px){
+    .program{
+       flex-basis: 100%;
+        margin: 30px;
+        width: 90%;
+        height: 45vmin;
+        
+        
+    }
+    .programs{
+        flex-direction: column;
+        height: 150vh;
+    }
+  }

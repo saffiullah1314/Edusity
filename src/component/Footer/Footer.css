@@ -1,0 +1,38 @@
+.foot{
+    height: 100px
+}
+.footer {
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin: 30px;
+   
+}
+.footer span{
+    display: flex;
+}
+.footer span p{
+    margin-left: 30px;
+}
+
+@media (max-width: 800px){
+    .footer span p{
+        margin: 10px;
+        font-size: 15px;
+    }
+    .foot span{
+        display: block;
+        
+    }
+    .footer  p{
+        font-size: 15px;
+    }
+    .footer {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 20px;
+        width: 100%;
+        
+     }
+}

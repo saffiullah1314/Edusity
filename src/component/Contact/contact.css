@@ -1,0 +1,88 @@
+.contact{
+    width: 80%;
+    margin: 80px auto;
+    padding-left: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.col-left{
+    flex-basis:46%;
+}
+.col-left h2{
+    font-size: 30px;
+    font-weight: 500;
+    color: rgb(3, 66, 104);
+    margin-bottom: 15px;
+
+}
+.col-left h2 img{
+    width: 30px;
+    margin-left: 5px ;
+}
+.col-left p{
+    line-height: 1.4;
+    color: rgb(74, 74, 74);
+    margin-bottom: 10px;
+}
+.col-left ul li{
+   list-style: none;
+   margin-top: 20px;
+   display: block;
+}
+.col-left ul li img{
+    width: 20px;
+    margin-right: 10px;
+}
+.col-right{
+   flex-basis: 45%;
+}
+.col-right form label{
+    font-size: 18px;
+    color: rgb(74, 74, 74) ;
+    padding-bottom: 10px;
+}
+.col-right form input ,textarea{
+    width: 100%;
+    padding: 10px;
+    outline: none;
+    border: none;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    background-color: rgba(234, 234, 234, 0.596);
+    resize: none;
+
+}
+.contact button{
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+i{
+    padding-left: 10px;
+}
+.contact span{
+    margin: 20px;
+    display: block;
+    
+}
+
+@media (max-width: 950px){
+    .contact{
+        width: 100%;
+        margin: 70px auto;
+        padding-left: 15px;
+    
+    }
+}
+@media (max-width: 800px){
+    .contact{
+     flex-direction: column;
+    }
+    .col-left{
+        flex-basis: 100%;
+        margin: 50px 0;
+    }
+    .col-right{
+        flex-basis: 100%;
+        margin: 50px 0;
+    }
+}

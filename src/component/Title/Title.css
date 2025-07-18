@@ -1,0 +1,20 @@
+.title{
+    margin: 80px 0;
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.title p{
+    text-transform:uppercase;
+    color: rgb(3, 66, 104);
+    font-size: 16px;
+    margin-bottom: 5px;
+
+}
+.title h2{
+    font-size: 30px;
+    font-weight: 600;
+    color: rgb(37, 29, 29);
+}
