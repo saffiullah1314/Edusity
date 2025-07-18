@@ -1,70 +1,42 @@
-# Getting Started with Create React App
+# 🎓 Edusity
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Edusity** is a modern, fully responsive educational web application built with **React.js**, designed to represent a professional university or educational institute. It provides detailed information about academic programs, and includes a fully functional contact form to engage with visitors effectively.
 
-## Available Scripts
+## 🔗 Live Demo
 
-In the project directory, you can run:
+🌐 [Visit Edusity Website](https://saffiullah1314.github.io/Edusity/)  
+_(Replace the link with your actual GitHub Pages deployment link)_
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📌 Key Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- 📱 Fully responsive layout for all screen sizes
+- 🎨 Professional and modern design with clean UI
+- 🏫 Informative sections about educational programs and university
+- 📩 Working contact form — form submissions are sent via email
+- ⚡ Smooth navigation and user experience
+- ⚛️ Built using modern React best practices
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🏫 About Edusity (University)
 
-### `npm run build`
+> **Nurturing Tomorrow's Leaders Today**
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Embark on a transformative educational journey with our university's comprehensive education programs.  
+Our cutting-edge curriculum is designed to empower students with the knowledge, skills, and experiences needed to excel in the dynamic field of education.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+With a focus on **innovation**, **hands-on learning**, and **personalized mentorship**, our programs prepare aspiring educators to make a meaningful impact in classrooms, schools, and communities.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Whether you aspire to become a **teacher**, **administrator**, **counselor**, or **educational leader**, our diverse range of programs offers the perfect pathway to achieve your goals and unlock your full potential in shaping the future of education.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🛠️ Tech Stack
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **Frontend:** React.js
+- **Styling:** CSS / Tailwind CSS *(mention whichever one you used)*
+- **Deployment:** GitHub Pages
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
