@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Edusity/static/css/main.721ea042.css",
-    "main.js": "/Edusity/static/js/main.28f671ac.js",
+    "main.css": "/Edusity/static/css/main.5edca1de.css",
+    "main.js": "/Edusity/static/js/main.ebacbc3c.js",
     "static/media/bg-img.jpg": "/Edusity/static/media/bg-img.1601f30e6d027aa09d03.jpg",
     "static/media/about.png": "/Edusity/static/media/about.ae79f7c4ba002987bed7.png",
     "static/media/program3.png": "/Edusity/static/media/program3.73a816ab56c0a6e457d6.png",
@@ -15,11 +15,11 @@
     "static/media/user-4.png": "/Edusity/static/media/user-4.50ce69a0306667eba2c1.png",
     "static/media/user-1.png": "/Edusity/static/media/user-1.1f46bb883fe387830efd.png",
     "index.html": "/Edusity/index.html",
-    "main.721ea042.css.map": "/Edusity/static/css/main.721ea042.css.map",
-    "main.28f671ac.js.map": "/Edusity/static/js/main.28f671ac.js.map"
+    "main.5edca1de.css.map": "/Edusity/static/css/main.5edca1de.css.map",
+    "main.ebacbc3c.js.map": "/Edusity/static/js/main.ebacbc3c.js.map"
   },
   "entrypoints": [
-    "static/css/main.721ea042.css",
-    "static/js/main.28f671ac.js"
+    "static/css/main.5edca1de.css",
+    "static/js/main.ebacbc3c.js"
   ]
 }
